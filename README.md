@@ -4,6 +4,8 @@
 
 # 👋 Welcome to My GitHub!  
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
+
 ## 🌟 About Me  
 Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student passionate about **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing (NLP)**. I love solving complex problems, building innovative projects, and contributing to the tech community.  
 
@@ -50,23 +52,25 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 ---
 
 ## 🌐 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YourPortfolioLink.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-o7o3)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slsaurabh1234567890@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Kumar-0&show_icons=true&theme=radical)
-![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Kumar-0&theme=radical)
-![Saurabh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Kumar-0&layout=compact&theme=radical)
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&theme=radical)
+
 
 ---
 
 ## 🏆 Achievements  
 - Completed OpenCV Bootcamp with multiple projects in Computer Vision.  
 - Applied cutting-edge AI models to solve real-world challenges in NLP and Vision.  
-- Consistently pushing the boundaries of innovation in AI and ML.  
+- Consistently pushing the boundaries of innovation in AI and ML.
+- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&row=2&column=3) 
 
 ---
 
