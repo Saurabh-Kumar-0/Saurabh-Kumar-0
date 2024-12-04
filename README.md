@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #0000ff; text-shadow: 2px 2px 5px #87CEFA;">
+<h1 align="center" style="color: #ff0000; text-shadow: 2px 2px 5px #87CEFA;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurabh+Kumar!;" />
 </h1>
 
