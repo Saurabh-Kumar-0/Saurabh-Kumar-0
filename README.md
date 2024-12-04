@@ -1,3 +1,7 @@
+<h1 align="center" style="color: #0000ff; text-shadow: 2px 2px 5px #87CEFA;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurabh+Kumar!;" />
+</h1>
+
 # 👋 Welcome to My GitHub!  
 
 ## 🌟 About Me  
@@ -14,20 +18,11 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 ---
 
 ## 🛠️ Skills  
-### Programming Languages:  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
-### Frameworks and Libraries:  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-
-### Tools:  
-- **Version Control**: Git, GitHub  
-- **Data Visualization**: Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-Learn  
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **Data Science**: ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1D2C4C?style=flat-square&logo=databricks&logoColor=white) ![Big Data](https://img.shields.io/badge/-Big%20Data-FF6F00?style=flat-square&logo=apache-spark&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?style=flat-square&logo=tensorflow&logoColor=white) ![AI](https://img.shields.io/badge/-AI-2C6BC5?style=flat-square&logo=ai&logoColor=white)
+- **Tools**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![IBM Watson Studio](https://img.shields.io/badge/-IBM%20Watson-0530AD?style=flat-square&logo=ibm&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Cloud**: ![Cloudant](https://img.shields.io/badge/-Cloudant-141D9E?style=flat-square&logo=ibm-cloud&logoColor=white) ![IBM Cloud Services](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=ibm-cloud&logoColor=white)
+- **Dev Tools**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
