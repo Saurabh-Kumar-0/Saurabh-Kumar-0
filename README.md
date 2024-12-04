@@ -31,9 +31,9 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 ## 🚀 Projects  
 ### 1. [Advanced Vehicle Classification](https://github.com/YourRepoLink)  
 **Description**: Leveraged TensorFlow and OpenCV to classify vehicles in real-time using CNNs.  
-**Technologies**: Python, TensorFlow, OpenCV  
+**Technologies**: Python, PyTorch, OpenCV  
 
-### 2. [Text-to-Speech with SpeechT5](https://github.com/YourRepoLink)  
+### 2. [Text-to-Speech with SpeechT5](https://github.com/Saurabh-Kumar-0/TTS_IITR)  
 **Description**: Fine-tuned Microsoft's SpeechT5 model for generating high-quality speech from text, specializing in technical jargon.  
 **Technologies**: PyTorch, Hugging Face, NLP  
 
@@ -52,14 +52,19 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 ---
 
 ## 🌐 Let's Connect  
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-o7o3)
-![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slsaurabh1234567890@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-o7o3)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slsaurabh1234567890@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats  
 ![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Kumar-0&show_icons=true&theme=radical)
 ![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Kumar-0&theme=radical)
+![Saurabh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Kumar-0&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
 ![Saurabh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Kumar-0&theme=radical)
 
 ---
