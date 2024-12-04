@@ -57,7 +57,9 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 ---
 
 ## 📊 GitHub Stats  
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Kumar-0&show_icons=true&theme=radical)
+![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Kumar-0&theme=radical)
+![Saurabh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Kumar-0&layout=compact&theme=radical)
 
 ---
 
