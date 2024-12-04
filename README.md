@@ -4,7 +4,7 @@
 
 # 👋 Welcome to My GitHub!  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Saurabh-Kumar-0&color=blue&style=flat-square)
 
 ## 🌟 About Me  
 Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student passionate about **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing (NLP)**. I love solving complex problems, building innovative projects, and contributing to the tech community.  
@@ -52,15 +52,20 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 ---
 
 ## 🌐 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-o7o3)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slsaurabh1234567890@gmail.com)  
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-o7o3)
+![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slsaurabh1234567890@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats  
 ![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Kumar-0&show_icons=true&theme=radical)
 ![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Kumar-0&theme=radical)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Kumar-0&theme=radical)
+![Saurabh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Kumar-0&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![Saurabh's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saurabh-Kumar-0&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
@@ -68,7 +73,6 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 - Completed OpenCV Bootcamp with multiple projects in Computer Vision.  
 - Applied cutting-edge AI models to solve real-world challenges in NLP and Vision.  
 - Consistently pushing the boundaries of innovation in AI and ML.
-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&row=2&column=3) 
 
 ---
 
