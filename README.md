@@ -2,6 +2,38 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=ff0000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurabh+Kumar!;" />
 </h1>
 
+<h1 align="center" style="color: #b22222; text-shadow: 2px 2px 5px #FF7F7F; position: relative; overflow: hidden; font-family: Orbitron, sans-serif; animation: glitch 1.5s infinite;">
+    Hi There! 👋<br>I'm Saurabh Kumar!
+</h1>
+
+<style>
+@keyframes glitch {
+    0% {
+        text-shadow: 2px 2px 5px #FF7F7F, -2px -2px 5px #FF6347;
+    }
+    20% {
+        text-shadow: -2px -2px 5px #FF7F7F, 2px 2px 5px #FF6347;
+        transform: skewX(10deg);
+    }
+    40% {
+        text-shadow: 3px -3px 5px #FF7F7F, -3px 3px 5px #FF6347;
+        transform: skewX(-10deg);
+    }
+    60% {
+        text-shadow: -2px 2px 5px #FF7F7F, 2px -2px 5px #FF6347;
+        transform: skewX(0deg);
+    }
+    80% {
+        text-shadow: 2px -2px 5px #FF7F7F, -2px 3px 5px #FF6347;
+        transform: skewX(-5deg);
+    }
+    100% {
+        text-shadow: 2px 2px 5px #FF7F7F, -2px -2px 5px #FF6347;
+        transform: skewX(5deg);
+    }
+}
+</style>
+
 # 👋 Welcome to My GitHub!  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
