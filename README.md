@@ -70,8 +70,4 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 
 ---
 
-Feel free to explore my repositories and connect with me for collaborations or discussions!  
-
----
-
-Would you like assistance setting up any specific sections, such as embedding project demos or setting up the GitHub stats widget?
+Feel free to explore my repositories and connect with me for collaborations or discussions!
