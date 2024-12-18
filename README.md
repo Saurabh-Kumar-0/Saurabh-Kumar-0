@@ -30,14 +30,14 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 
 ## 🚀 Projects  
 ### 1. [Advanced Vehicle Classification](https://github.com/YourRepoLink)  
-**Description**: Leveraged TensorFlow and OpenCV to classify vehicles in real-time using CNNs.  
+**Description**: Developed an advanced Vehicle Classification Model using computer vision and machine learning techniques, leveraging frameworks like TensorFlow and OpenCV. The model employs Convolutional Neural Networks (CNNs) for efficient feature extraction and classification, enabling accurate identification of various vehicle types, such as cars, trucks, and motorcycles, in real-time scenarios. Trained on a diverse dataset, the model achieves high precision, making it suitable for applications in traffic management, autonomous driving systems, and smart surveillance. Its robust performance and scalability highlight expertise in deep learning, image processing, and practical AI deployment for real-world challenges.
 **Technologies**: Python, PyTorch, OpenCV  
 
-### 2. [Text-to-Speech with SpeechT5](https://github.com/Saurabh-Kumar-0/TTS_IITR)  
-**Description**: Fine-tuned Microsoft's SpeechT5 model for generating high-quality speech from text, specializing in technical jargon.  
+### 2. [Text-to-Speech with SpeechT5](https://github.com/Saurabh-Kumar-0/Text_To_Speech_Model_For_Regional_Language)  
+**Description**: Developed a Fine-Tuned Text-to-Speech (TTS) Model tailored for English technical vocabulary and the regional language Hindi, leveraging the SpeechT5 framework by Hugging Face. The project focuses on synthesizing speech with accurate pronunciation, natural intonation, and contextual understanding of technical jargon and regional nuances. Through dataset creation, preprocessing, and model optimization, the training pipeline ensured high-quality audio outputs while maintaining computational efficiency. Deployed successfully on Hugging Face, the model demonstrates scalability and accessibility, catering to diverse applications in technical education, assistive technology, and language preservation. This work reflects expertise in NLP, speech synthesis, and real-world AI deployment.  
 **Technologies**: PyTorch, Hugging Face, NLP  
 
-### 3. [Face Detection and Pose Estimation](https://github.com/YourRepoLink)  
+### 3. [Face Detection and Hand Tracking](https://github.com/YourRepoLink)  
 **Description**: Developed solutions for face detection, pose estimation, and hand tracking using OpenCV.  
 **Technologies**: OpenCV, MediaPipe  
 
