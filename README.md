@@ -41,7 +41,7 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 **Description**: This repository is a collection of real-time Computer Vision applications built using OpenCV, Mediapipe, and Deep Learning. Each project focuses on real-world implementations of vision-based AI, enabling:
 - Face Detection 👦📷 – Detect human faces efficiently in real-time.
 - Hand Detection & Gesture Control ✋ – Track hands, count fingers, and control volume using gestures.
-- Face Mesh Detection 🕸️ – Generate a 468-point facial mesh for AR filters and facial analysis.
+- Face Mesh Detection 🕸️ – Generate a 326-point facial mesh for AR filters and facial analysis.
 - Pose Estimation 🏃 – Detect human body posture, useful for fitness tracking and sports analytics.  
 **Technologies**: 
 - OpenCV for image processing.
