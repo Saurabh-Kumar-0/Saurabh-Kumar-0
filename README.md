@@ -37,9 +37,18 @@ Hi there! I'm **Saurabh Kumar**, a **Computer Science Engineering** student pass
 **Description**: Developed a Fine-Tuned Text-to-Speech (TTS) Model tailored for English technical vocabulary and the regional language Hindi, leveraging the SpeechT5 framework by Hugging Face. The project focuses on synthesizing speech with accurate pronunciation, natural intonation, and contextual understanding of technical jargon and regional nuances. Through dataset creation, preprocessing, and model optimization, the training pipeline ensured high-quality audio outputs while maintaining computational efficiency. Deployed successfully on Hugging Face, the model demonstrates scalability and accessibility, catering to diverse applications in technical education, assistive technology, and language preservation. This work reflects expertise in NLP, speech synthesis, and real-world AI deployment.  
 **Technologies**: PyTorch, Hugging Face, NLP  
 
-### 3. [Face Detection and Hand Tracking](https://github.com/YourRepoLink)  
-**Description**: Developed solutions for face detection, pose estimation, and hand tracking using OpenCV.  
-**Technologies**: OpenCV, MediaPipe  
+### 3. [ComputerVisionProjects](https://github.com/Saurabh-Kumar-0/ComputerVisionProjects)  
+**Description**: This repository is a collection of real-time Computer Vision applications built using OpenCV, Mediapipe, and Deep Learning. Each project focuses on real-world implementations of vision-based AI, enabling:
+
+=> Face Detection 👦📷 – Detect human faces efficiently in real-time.
+=> Hand Detection & Gesture Control ✋ – Track hands, count fingers, and control volume using gestures.
+=> Face Mesh Detection 🕸️ – Generate a 468-point facial mesh for AR filters and facial analysis.
+=> Pose Estimation 🏃 – Detect human body posture, useful for fitness tracking and sports analytics.  
+**Technologies**: 
+- OpenCV for image processing.
+- Mediapipe for real-time face, hand, and pose tracking.
+- Python for scripting and implementation.
+- Check out the full repository and explore the projects in action! 🚀
 
 ---
 
